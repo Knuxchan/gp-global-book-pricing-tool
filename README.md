@@ -9,3 +9,7 @@ A tool for checking the prices of books on Google Play for global storefronts
 - Click the `Show Data` button
 
 **Data processing may take several minutes to complete. Please be patient.**
+
+💟 Like this tool? Please consider supporting me.
+☕ [Buy me a coffee](https://ko-fi.com/Knuxchan "Support me on Ko-Fi")
+💖 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=FLKXR3HLB8EGG "Send a PayPal donation")
